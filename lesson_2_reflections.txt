@@ -10,4 +10,8 @@ How is the staging area different from the working directory and the repository?
    together before committing them.  It is important to have a staging area to allow the user to build out a change set before
    committing.
 
+How can you use the staging area to make sure you have one commit per logical change?
+- If you are making multiple changes, you can use the staging area as a bookmark or snapshot for a group of changes before they 
+  are committed.  It also lets you experiment more without bundling multiple changes together.
+
 
