@@ -17,4 +17,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - Branches would help if you had different versions of code and wanted to maintain bug fixes in each version (branch).  Each branch would have its own history with a common point. 
 
+How do the diagrams help you visualize the branch structure?
+- The git diagrams help you visualize the relationships between the commits.  Since the commit relationships can get 
+  complex, a graphical representation can help you understand the relationships better.
 
