@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 - The git diagrams help you visualize the relationships between the commits.  Since the commit relationships can get 
   complex, a graphical representation can help you understand the relationships better.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- Merging two branches combines all the changes into one branch.  In the diagram it shows as having two parents because it
+  combines changes from two different source trees.
+
+
