@@ -26,3 +26,11 @@ What is the result of merging two branches together? Why do we represent it in t
   combines changes from two different source trees.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ - The pros are the following:
+   - Save you time and effort of merging changes yourself
+   - Allows you to keep a development branch up to date
+ - The cons are the following:
+   - You could be auto merging changes you do not want
+   - The auto merged changes and your branch changes by introduce new bugs if they do not mesh together
+
