@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- If you are working from another computer
+- If you are stubbing out a new project
+- If you have non-technical user who need to add supporting files like images, text files, etc.
