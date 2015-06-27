@@ -15,4 +15,8 @@ Describe the differences between forks, clones, and branches. When would you use
  - I would use a clone when I want a local workarea for a repository.  Most likely because I am actively working on the repository
  - I would use a branch when I have a set of changes that are not ready for distribution, but I would to collaborate on
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ - Having the last known state of the remote allows the local version of git the ability to reconcile merges or mark when 
+   the remote and local repositories have diverged.
+
 
