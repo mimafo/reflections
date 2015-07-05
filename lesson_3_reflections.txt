@@ -19,4 +19,9 @@ What is the benefit of having a copy of the last known state of the remote store
  - Having the last known state of the remote allows the local version of git the ability to reconcile merges or mark when 
    the remote and local repositories have diverged.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ - Collaborating without a source control/version control system would be more difficult.  At first you would probably share files
+   but once two or more programmers started making changes to the same files, it would be very difficult to keep track and 
+   reconcile changes.
+
 
