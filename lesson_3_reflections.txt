@@ -24,4 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
    but once two or more programmers started making changes to the same files, it would be very difficult to keep track and 
    reconcile changes.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ - When you are working with a medium to large team, working with branches is extremely beneficial.  It allows changes to be
+   reviewed and tested before going into the master branch.  This is especially true if you are distributing the master branch to
+   an external user base.
+
 
